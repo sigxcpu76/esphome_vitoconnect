@@ -29,7 +29,7 @@
 #include "vitoconnect_optolinkKW.h"
 #include "vitoconnect_datapoint.h"
 
-using namespace std;
+// using namespace std;
 
 namespace esphome {
 namespace vitoconnect {
